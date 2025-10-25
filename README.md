@@ -10,7 +10,7 @@ Notre plateforme de quiz interactive vous permet de tester vos connaissances de 
 ## 🚀 Démarrer avec la Plateforme
 
 ### Étape 1 : Page d'Accueil
-![Page d'Accueil](./images/etape1.jpg)
+![Page d'Accueil](oop_project/images/etape1.jpg)
 
 **Description :** 
 *"Bienvenue sur notre plateforme de quiz ! Découvrez les fonctionnalités principales puis configurez votre quiz dans la barre latérale."*
