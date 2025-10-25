@@ -24,7 +24,7 @@ Notre plateforme de quiz interactive vous permet de tester vos connaissances de 
 ---
 
 ### Étape 2 : Configuration du Quiz
-![Configuration du Quiz](./images/etape2.jpg)
+![Configuration du Quiz](oop_project/images/etape2.jpg)
 
 **Description :** 
 *"Étape 1 : Dans la barre latérale, sélectionnez les thèmes qui vous intéressent et choisissez le nombre de questions pour personnaliser votre quiz."*
@@ -40,7 +40,7 @@ Notre plateforme de quiz interactive vous permet de tester vos connaissances de 
 
 
 ### Étape 3 : Pendant le Quiz
-![Navigation pendant le Quiz](./images/etape3.jpg)
+![Navigation pendant le Quiz](oop_project/images/etape3.jpg)
 
 **Description :** 
 *"Quiz en cours ! Utilisez les boutons pour naviguer et répondre aux questions."*
@@ -65,8 +65,8 @@ Notre plateforme de quiz interactive vous permet de tester vos connaissances de 
 
 
 ### Étape 4 : Résultats du Quiz
-![Résultats du Quiz](./images/etape4.jpg)
-![Résultats graphique](./images/etape5.jpg)
+![Résultats du Quiz](oop_project/images/etape4.jpg)
+![Résultats graphique](oop_project/images/etape5.jpg)
 
 
 **Description :** 
@@ -87,7 +87,7 @@ Notre plateforme de quiz interactive vous permet de tester vos connaissances de 
 ---
 
 ### Étape 5 : Analyse des Résultats
-![Analyse des Résultats](./images/etape6.jpg)
+![Analyse des Résultats](oop_project/images/etape6.jpg)
 
 **Description :** 
 *"Analysez vos performances avec les statistiques détaillées."*
@@ -106,7 +106,7 @@ Notre plateforme de quiz interactive vous permet de tester vos connaissances de 
 ---
 
 ### Étape 6 : Détail des Réponses
-![Détail des Réponses](./images/etape7.jpg)
+![Détail des Réponses](oop_project/images/etape7.jpg)
 
 **Description :** 
 *"Revoyez chaque question avec le système de couleurs."*
@@ -125,7 +125,7 @@ Notre plateforme de quiz interactive vous permet de tester vos connaissances de 
 ---
 
 ### Étape 7 : Recommencer un Quiz
-![Recommencer le Quiz](./images/etape8.jpg)
+![Recommencer le Quiz](oop_project/images/etape8.jpg)
 
 **Description :** 
 *"Analysez votre historique et recommencez pour vous améliorer."*
@@ -142,7 +142,7 @@ Notre plateforme de quiz interactive vous permet de tester vos connaissances de 
 ---
 
 ### Étape 8 : Historique Détaillé
-![Historique Détaillé](./images/etape8.jpg)
+![Historique Détaillé](oop_project/images/etape8.jpg)
 
 **Description :** 
 *"Consultez le détail complet de vos réponses question par question."*
